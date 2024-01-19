@@ -1,4 +1,4 @@
-# Your Package Name
+# custom alert box
 
 A brief description of your Dart package goes here. Highlight its purpose and main features.
 
@@ -8,8 +8,8 @@ Your Dart package is designed to [insert purpose here]. It helps developers with
 
 ## Features
 
-- **Feature 1**: A short description of feature 1.
-- **Feature 2**: A short description of feature 2.
+- **Feature 1**: custom alert box
+- **Feature 2**: test project
 - ...
 
 ## Installation
