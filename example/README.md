@@ -1,48 +1,21 @@
-# example
+# Your Package Name
 
-A new Flutter project.
-
-## Getting Started
-
-# Custom Dialog Package
+A brief description of your Dart package goes here. Highlight its purpose and main features.
 
 ## Overview
 
-The Custom Dialog Package simplifies the integration of dynamic and customizable dialogs into your applications. Enhance user interactions with feature-rich dialogs, including alerts, confirmations, input dialogs, and more.
+Your Dart package is designed to [insert purpose here]. It helps developers with [specific use case] by offering [key features].
 
 ## Features
 
-- **Customization**: Tailor the appearance of dialogs to match your application's theme. Customize colors, fonts, and other visual elements seamlessly.
-
-- **Versatility**: Support for various dialog types to meet your specific use cases.
-
-- **Ease of Use**: A straightforward API for easy integration, allowing you to focus on your core features.
-
-- **Responsive Design**: Dialogs adapt to different screen sizes and orientations for a consistent user experience.
-
-- **Event Handling**: Effortlessly handle user interactions and events triggered within the dialogs.
+- **Feature 1**: A short description of feature 1.
+- **Feature 2**: A short description of feature 2.
+- ...
 
 ## Installation
 
-To integrate the Custom Dialog Package into your project, follow the instructions in the [Installation Guide](docs/installation.md).
+To use this package, add `your_package_name` to your `pubspec.yaml`:
 
-## Usage
-
-Refer to the [Usage Guide](docs/usage.md) for detailed instructions on incorporating the package into your application. Explore examples and best practices for optimal usage.
-
-## Documentation
-
-Comprehensive information about the package's API, customization options, and advanced features is available in the [API Documentation](docs/api.md).
-
-## Examples
-
-Explore the [Examples](examples/) directory for sample code snippets and projects showcasing the package's capabilities. Use these examples as a starting point for your own implementations.
-
-## Contribution
-
-Community contributions are welcome. If you encounter issues, have improvement ideas, or want to contribute new features, refer to the [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-The Custom Dialog Package is open-source and distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in your projects.
-
+```yaml
+dependencies:
+  custom_alert_box: ^1.0.0
