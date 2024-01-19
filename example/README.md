@@ -46,9 +46,7 @@ Community contributions are welcome. If you encounter issues, have improvement i
 
 The Custom Dialog Package is open-source and distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in your projects.
 
----
 
-Thank you for choosing the Custom Dialog Package. We hope it enhances your application's user interface and provides a delightful experience for your users. If you have questions or feedback, don't hesitate to reach out. Happy coding!
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
