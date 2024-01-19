@@ -46,12 +46,3 @@ Community contributions are welcome. If you encounter issues, have improvement i
 
 The Custom Dialog Package is open-source and distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in your projects.
 
-
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
