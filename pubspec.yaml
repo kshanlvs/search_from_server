@@ -1,7 +1,7 @@
 name: search_from_server
-description: "A new Flutter package project."
+description: "Search From Backed Made Easy"
 version: 0.0.1
-homepage:
+homepage: https://github.com/kshanlvs/search_from_server  
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
